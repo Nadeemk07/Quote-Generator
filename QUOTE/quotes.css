@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 50px;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: yellow;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: yellowgreen;
+    color: white;
+}
+
+p{
+    font-size: 35px;
+    color: yellow;
+}
+
+button:hover{
+    background-color: red;
+}
